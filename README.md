@@ -33,6 +33,6 @@
 #### PRD4.人工智能概率性与用户痛点 
 
 AI概率性考量：
-* 使用百度AI人脸识别的正确率在99.99%![image.png](https://upload-images.jianshu.io/upload_images/9497618-bff42be7c6f14923.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+* 使用百度AI人脸识别的正确率在99.99%!
 
 * 
