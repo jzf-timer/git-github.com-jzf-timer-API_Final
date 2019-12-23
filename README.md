@@ -88,10 +88,10 @@
 
 #### API使用水平
 > 输入输出皆在代码中有所展现
-- 语音识别API [详细代码示例]()
-- 文本纠错API [详细代码示例]()
-- 语音评测API [详细代码示例]()
-- 手写字体识别API [详细代码示例]()
+- 语音识别API [详细代码示例](https://github.com/jzf-timer/git-github.com-jzf-timer-API_Final/blob/master/code/%E8%AE%AF%E9%A3%9E%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB.ipynb)
+- 文本纠错API [详细代码示例](https://github.com/jzf-timer/git-github.com-jzf-timer-API_Final/blob/master/code/WBJC_BAIDU.ipynb)
+- 语音评测API [详细代码示例](https://github.com/jzf-timer/git-github.com-jzf-timer-API_Final/blob/master/code/API_XF_PC.ipynb)
+- 手写字体识别API [详细代码示例](https://github.com/jzf-timer/git-github.com-jzf-timer-API_Final/blob/master/code/%E7%99%BE%E5%BA%A6%E6%89%8B%E5%86%99%E5%AD%97%E4%BD%93%E8%AF%86%E5%88%AB.ipynb)
 
 #### API使用比较分析
 
@@ -102,7 +102,7 @@
 
 |对比平台|百度|讯飞|
 |---|---|---|
-|代码比较|[百度手写字体识别api详细代码示例](链接)|[讯飞手写字体识别api详细代码](链接)|
+|代码比较|[百度手写字体识别api详细代码示例](https://github.com/jzf-timer/git-github.com-jzf-timer-API_Final/blob/master/code/%E7%99%BE%E5%BA%A6%E6%89%8B%E5%86%99%E5%AD%97%E4%BD%93%E8%AF%86%E5%88%AB.ipynb)|[讯飞手写字体识别api详细代码](https://github.com/jzf-timer/git-github.com-jzf-timer-API_Final/blob/master/code/%E8%AE%AF%E9%A3%9E%E6%89%8B%E5%86%99%E5%AD%97%E4%BD%93%E8%AF%86%E5%88%AB.ipynb)|
 |使用效果|中文字体识别效果很好，字体格式完全正确；对于英文的字体识别断句分词糟糕，无法使用，|识别准确，但是默认输出为文字编码，并非中文字体，相比百度手写字体识别，英语文字的识别准确度非常高，单词分段等清晰无误，全文仅有一处错误|
 |成熟度|[2019-12-17推出最新版的api文档](https://ai.baidu.com/ai-doc/OCR/hk3h7y2qq)，调用方法和过程简单，官方文档有在github给定参考代码|[有详细的api调用文档及说明，可以直接下载使用](https://www.xfyun.cn/doc/words/wordRecg/API.html)|
 |性价比|每日 50 次免费调用量，开通按量后付费。调用失败不计费。预付费套餐10万次只需要740元[百度ai开放平台手写字api产品价格](https://ai.baidu.com/ai-doc/OCR/Ek3h7xvq7)|免费次数为90天10万服务量，付费则为1万服务量350/年，10万服务量3200/年；100万服务量30000元/年[讯飞开放平台手写字体识别api产品价格](https://www.xfyun.cn/services/wordRecg)|
@@ -114,7 +114,7 @@
 
 |对比平台|百度|讯飞|
 |---|---|---|
-|代码比较|[百度语音识别API详细代码示例](链接)|[讯飞语音识别API详细代码](链接)|
+|代码比较|[百度语音识别API详细代码示例](https://github.com/jzf-timer/git-github.com-jzf-timer-API_Final/blob/master/code/%E7%99%BE%E5%BA%A6%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB.ipynb)|[讯飞语音识别API详细代码](https://github.com/jzf-timer/git-github.com-jzf-timer-API_Final/blob/master/code/%E8%AE%AF%E9%A3%9E%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB.ipynb)|
 |使用效果|百度语音识别无论是‘输入法模型’还是‘搜索模型输出’两种方式结果都不准确，无法使用。|识别准确，连感叹语气都识别出来了。|
 |成熟度|[2019-12-19推出最新版的api文档](https://ai.baidu.com/ai-doc/SPEECH/Vk38lxily)，调用方法和过程简单，官方文档有在github给定[参考代码](https://github.com/Baidu-AIP/speech-demo)|有详细的[api调用文档及说明](https://www.xfyun.cn/doc/asr/lfasr/API.html)，可以直接下载使用[示例代码](https://www.xfyun.cn/doc/asr/lfasr/API.html#%E8%B0%83%E7%94%A8%E7%A4%BA%E4%BE%8B)|
 |性价比|12000元/1QPS/一年，无限制调用量[百度ai开放平台语音识别API产品价格](https://ai.baidu.com/ai-doc/SPEECH/Jk38lxn2j)|按音频时长计费，四个套餐，198/20小时/一年，1180/200小时/一年，2700/500小时/一年，4900/1000小时/一年[讯飞开放平台手写字体识别api产品价格](https://www.xfyun.cn/services/lfasr?ch=bdtg&renqun_youhua=478960)|
@@ -150,7 +150,7 @@ API市场竞争程度 | google搜索排行为第二 | google搜索排行第十�
 
 #### API加分项
 > 用到的的api有文本纠错API、手写字识别API、语音识别API、语音评测API
-- [文本纠错代码示例]()
-- [手写识别代码示例]()
-- [语音识别代码示例]()
-- [语音评测代码示例]()
+- [文本纠错代码示例](https://github.com/jzf-timer/git-github.com-jzf-timer-API_Final/blob/master/code/WBJC_BAIDU.ipynb)
+- [手写识别代码示例](https://github.com/jzf-timer/git-github.com-jzf-timer-API_Final/blob/master/code/%E7%99%BE%E5%BA%A6%E6%89%8B%E5%86%99%E5%AD%97%E4%BD%93%E8%AF%86%E5%88%AB.ipynb)
+- [语音识别代码示例](https://github.com/jzf-timer/git-github.com-jzf-timer-API_Final/blob/master/code/%E8%AE%AF%E9%A3%9E%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB.ipynb)
+- [语音评测代码示例](https://github.com/jzf-timer/git-github.com-jzf-timer-API_Final/blob/master/code/API_XF_PC.ipynb)
