@@ -105,7 +105,7 @@
 |代码比较|[百度手写字体识别api详细代码示例](链接)|[讯飞手写字体识别api详细代码](链接)|
 |使用效果|中文字体识别效果很好，字体格式完全正确；对于英文的字体识别断句分词糟糕，无法使用，|识别准确，但是默认输出为文字编码，并非中文字体，相比百度手写字体识别，英语文字的识别准确度非常高，单词分段等清晰无误，全文仅有一处错误|
 |成熟度|[2019-12-17推出最新版的api文档](https://ai.baidu.com/ai-doc/OCR/hk3h7y2qq)，调用方法和过程简单，官方文档有在github给定参考代码|[有详细的api调用文档及说明，可以直接下载使用](https://www.xfyun.cn/doc/words/wordRecg/API.html)|
-|性价比|每日 50 次免费调用量，开通按量后付费。调用失败不计费。预付费套餐10万次只需要740元[百度ai开放平台手写字api产品价格](https://ai.baidu.com/ai-doc/OCR/Ek3h7xvq7)|免费次数为90天10万服务量，付费则为1万服务量350/年，10万服务量3200/年；100万服务量30000元/年[讯飞开放平台手写字体识别api](https://www.xfyun.cn/services/wordRecg)|
+|性价比|每日 50 次免费调用量，开通按量后付费。调用失败不计费。预付费套餐10万次只需要740元[百度ai开放平台手写字api产品价格](https://ai.baidu.com/ai-doc/OCR/Ek3h7xvq7)|免费次数为90天10万服务量，付费则为1万服务量350/年，10万服务量3200/年；100万服务量30000元/年[讯飞开放平台手写字体识别api产品价格](https://www.xfyun.cn/services/wordRecg)|
 |服务评估|有api文档且有[示例代码](https://github.com/Baidu-AIP/QuickStart/tree/master/OCR)，调整参数以及接口链接即可使用，应用场景和参数完整，便于使用，且输出结果易处理|[具有详细的调用API说明文档](https://www.xfyun.cn/doc/words/wordRecg/API.html)及[api调用代码](https://www.xfyun.cn/doc/words/wordRecg/API.html#%E8%B0%83%E7%94%A8%E7%A4%BA%E4%BE%8B)|
 
 - 总结：通过对比调取百度ai开放平台和讯飞开放平台提供的手写字识别api，对比输出结果，综合上述内容，最终选定使用百度开发平台提供的手写字体API服务。
