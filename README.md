@@ -74,6 +74,9 @@
 #### 产品架构图
 - ![avatar](<https://github.com/jzf-timer/git-github.com-jzf-timer-API_Final/blob/master/img/axure1.png>)
 
+#### 核心交互及功能介绍
+- ![avatar](<https://github.com/jzf-timer/git-github.com-jzf-timer-API_Final/blob/master/img/axure2.png>)
+
 #### 原型文档
 
 - [原型交互文档](http://nfunm036.gitee.io/api-final-axure)
