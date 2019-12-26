@@ -82,7 +82,6 @@
 - [原型交互文档](http://nfunm036.gitee.io/api-final-axure)
 - [原型文档下载](https://gitee.com/NFUNM036/api-final-axure)
 - 口头操作说明：课上已说明。
-2-3分钟，留下「的确这是个可行丶可用的人工智能加值产品」的印象。
 
 ### 第三部分：产品使用关键AI或机器学习之API的输出入展示
 
