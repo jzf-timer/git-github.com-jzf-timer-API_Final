@@ -72,7 +72,7 @@
 ### 第二部分：原型
 
 #### 产品架构图
-- ![avatar](https://github.com/jzf-timer/git-github.com-jzf-timer-API_Final/blob/master/img/axure1.png)
+- ![avatar](<https://github.com/jzf-timer/git-github.com-jzf-timer-API_Final/blob/master/img/axure1.png>)
 
 #### 原型文档
 
