@@ -75,6 +75,7 @@
 - ![avatar](<https://github.com/jzf-timer/git-github.com-jzf-timer-API_Final/blob/master/img/axure1.png>)
 
 #### 核心交互及功能介绍
+- 所有核心功能及核心交互的api皆已写在交互文档中。
 - ![avatar](<https://github.com/jzf-timer/git-github.com-jzf-timer-API_Final/blob/master/img/axure2.png>)
 
 #### 原型文档
