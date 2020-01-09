@@ -156,3 +156,5 @@ API市场竞争程度 | google搜索排行为第二 | google搜索排行第十�
 - [手写识别代码示例](https://github.com/jzf-timer/git-github.com-jzf-timer-API_Final/blob/master/code/%E7%99%BE%E5%BA%A6%E6%89%8B%E5%86%99%E5%AD%97%E4%BD%93%E8%AF%86%E5%88%AB.ipynb)
 - [语音识别代码示例](https://github.com/jzf-timer/git-github.com-jzf-timer-API_Final/blob/master/code/%E8%AE%AF%E9%A3%9E%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB.ipynb)
 - [语音评测代码示例](https://github.com/jzf-timer/git-github.com-jzf-timer-API_Final/blob/master/code/API_XF_PC.ipynb)
+
+#### [ppt](https://github.com/jzf-timer/git-github.com-jzf-timer-API_Final/blob/master/20.pptx)
